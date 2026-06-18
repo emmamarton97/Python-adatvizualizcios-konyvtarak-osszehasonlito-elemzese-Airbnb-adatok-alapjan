@@ -3,7 +3,8 @@
 Ez a repository Márton Emma szakdolgozatának kódját tartalmazza.
 
 ## Tartalom
-- `martonemmadisszertacio.py` - A kutatás teljes Python kódja
+- `MartonEmmaDisszertacio.ipynb` - - A kutatás teljes Python kódja, Google Colab formátumban
+- `martonemmadisszertacio.py` - A kutatás teljes Python kódja, Python script formátumban
 
 ## Adatok
 Az elemzéshez használt adatok az Inside Airbnb weboldalról származnak:
